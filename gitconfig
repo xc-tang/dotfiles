@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = nyqueen22@gmail.com
+	name = Xicheng Tang
